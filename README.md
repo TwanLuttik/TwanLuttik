@@ -1,1 +1,1 @@
-git@github.com:TwanLuttik/TwanLuttik.git
+https://github.com/gjbae1212/hit-counter
