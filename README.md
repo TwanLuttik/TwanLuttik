@@ -1,7 +1,7 @@
 
 ## Twan Luttik
 
-[twanluttik.com](https://twan.link)
+[twanluttik.com](https://twanluttik.com)
 
 <br>
 
